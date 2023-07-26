@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace MyRazorApp.Pages.Shared
+namespace MyRazorApp.Pages
 {
-    public class _LayoutDoisModel : PageModel
+    public class _ViewStartModel : PageModel
     {
         public void OnGet()
         {
